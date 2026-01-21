@@ -76,20 +76,6 @@ Comprehensive hospital analytics platform for patient flow optimization and reso
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanJamel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanJamel&layout=compact&theme=radical)
-
----
-
-### 🏆 Certifications & Skills
-- **Certified Data Management Professional (CDMP) - Associate**
-- **AWS Certified Data Analytics - Specialty**
-- **Kaggle Competitions Expert**
-
----
-
 ### 🔧 Tools & Platforms
 **Cloud:** AWS, Google Cloud Platform  
 **Data:** SQL, MongoDB, PostgreSQL  
