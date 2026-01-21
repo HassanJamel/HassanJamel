@@ -1,26 +1,18 @@
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
+
 **★ Digital Transformation Leader | AI & Data Science Expert | E-Commerce & Super App Architect | Driving Revenue Growth, Automation & Scalable Digital Solutions**
 
 **LinkedIn:** [linkedin](https://www.linkedin.com/in/hassanjameel/)  
 **Kaggle:** [Kaggle](https://www.kaggle.com/hassanjameelahmed/)
 
-
-**Reach Me:** hassan.jamel@email.com  
-**Project Access:** Contact for Repository Access
-
 ---
-
-
-# Hi there 👋
-
 ![Coding From Home](fd12c894-7946-449f-87e4-f29b5b3f7983.png)
 
 ## hey there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![LinkedIn](https://www.linkedin.com/in/hassanjameel/)](https://www.linkedin.com)
+[![Kaggle](https://www.kaggle.com/hassanjameelahmed/)](https://www.kaggle.com)
+[![YouTube](https://www.youtube.com/@hassan-ai)](https://www.youtube.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 **Profile views:** 1,115,863
