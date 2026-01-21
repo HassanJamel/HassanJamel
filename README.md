@@ -18,10 +18,30 @@
 
 ---
 
-### HASSAN JAMEL
-**ADVANCED ANALYTICS & MACHINE LEARNING**
+### About me.
+▫️I am a Digital Transformation Leader and AI-driven Data Science Specialist with 20+ years of experience building scalable digital ecosystems, leading multi-million-SAR projects, and transforming traditional operations into smart, automated, data-centric environments.
 
-Leveraging data-driven insights and predictive modeling to solve real-world business challenges across healthcare, finance, and operations.
+▫️I specialize in using AI, Machine Learning, and Generative AI to optimize decisions, forecast demand, enhance customer experience, and build innovative digital products. My work spans E-commerce, ERP modernization, mobile applications, Super Apps, and end-to-end digital operations.
+
+▫️ Across my career, I have:
+• Built and launched Super Apps, online stores, loyalty systems, farm-management systems, and digital communities.
+• Led digital transformation initiatives generating 700M+ SAR in sales.
+• Increased digital adoption by 75% and boosted engagement by 60%.
+• Integrated platforms like SAP, Oracle Fusion, AX, Odoo, Infor, and multiple e-commerce systems.
+• Managed cross-functional teams (tech, product, data, marketing) to deliver measurable business impact.
+
+▫️ Today, I combine business strategy + data science + AI + e-commerce execution to help organizations:
+✔ Build scalable digital products
+✔ Automate operations using AI
+✔ Extract insights from complex data
+✔ Improve customer experience
+✔ Accelerate revenue growth
+
+▫️I am passionate about designing AI-powered systems that deliver smarter decisions, faster operations, and sustainable digital transformation.
+
+➡️Contact Info:
+hassan.j.a@hotmail.com
+0509684720
 
 ---
 
