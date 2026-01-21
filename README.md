@@ -58,6 +58,7 @@ Comprehensive hospital analytics platform for patient flow optimization and reso
 - **Cloud Integration:** AWS (S3, SageMaker)
 
 **🛠 Tech Stack**
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-blue?style=flat&logo=plotly)
@@ -68,6 +69,7 @@ Comprehensive hospital analytics platform for patient flow optimization and reso
 ---
 
 ### 🛠 Tech Stack
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -84,17 +86,20 @@ Comprehensive hospital analytics platform for patient flow optimization and reso
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HassanJamel&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HassanJamel&theme=radical)
+
 
 <img align="right" src="https://github.com/HassanJamel/HassanJamel/blob/main/your-image.gif" width="200"/>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/hassanjameel">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/yourhandle">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
 </a>
 
+<a href="https://www.kaggle.com/hassanjameelahmed">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+</a>
 
 
 <!--
