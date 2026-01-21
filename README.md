@@ -6,10 +6,10 @@
 
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
 
-**★ Digital Transformation Leader**
-**AI & Data Science Expert**
-**E-Commerce & Super App Architect**
-**Driving Revenue Growth, Automation & Scalable Digital Solutions**
+**★ Digital Transformation Leader**\
+**AI & Data Science Expert**\n
+**E-Commerce & Super App Architect**\n
+**Driving Revenue Growth, Automation & Scalable Digital Solutions**\n
 
 **LinkedIn:** [linkedin](https://www.linkedin.com/in/hassanjameel/)  
 **Kaggle:** [Kaggle](https://www.kaggle.com/hassanjameelahmed/)
