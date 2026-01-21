@@ -7,25 +7,14 @@
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
 
 **★ Digital Transformation Leader | AI & Data Science Expert | Driving Revenue Growth, Automation & Scalable Digital Solutions**
-
-**LinkedIn:** [linkedin](https://www.linkedin.com/in/hassanjameel/)  
-**Kaggle:** [Kaggle](https://www.kaggle.com/hassanjameelahmed/)
-
 ---
 
 ## hey there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanjameel)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassanjameelahmed)
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hassan-ai)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://lnkd.in/d-UkySbY)
-
-
-
-**Profile views:** 1,115,863
 
 ---
 
