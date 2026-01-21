@@ -1,3 +1,7 @@
+
+![Coding From Home](f001.jpg)
+
+
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
 
 **★ Digital Transformation Leader | AI & Data Science Expert | E-Commerce & Super App Architect | Driving Revenue Growth, Automation & Scalable Digital Solutions**
@@ -6,13 +10,16 @@
 **Kaggle:** [Kaggle](https://www.kaggle.com/hassanjameelahmed/)
 
 ---
-![Coding From Home](fd12c894-7946-449f-87e4-f29b5b3f7983.png)
 
 ## hey there 👋
 
-[![LinkedIn](https://www.linkedin.com/in/hassanjameel/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Kaggle](https://www.kaggle.com/hassanjameelahmed/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
-[![YouTube](https://www.youtube.com/@hassan-ai/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanjameel)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassanjameelahmed)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hassan-ai)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://lnkd.in/d-UkySbY)
 
 
 
