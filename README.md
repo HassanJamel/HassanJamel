@@ -93,14 +93,10 @@ Comprehensive hospital analytics platform for patient flow optimization and reso
 <a href="https://www.linkedin.com/in/hassanjameel">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-</a>
 
 <a href="https://www.kaggle.com/hassanjameelahmed">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
 </a>
-
 
 <!--
 **HassanJamel/HassanJamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
