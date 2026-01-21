@@ -1,10 +1,15 @@
 
-![Coding From Home](f001.jpg)
+<p align="center">
+  <img src="001.jpg" alt=" Alibaba Stock " width="100"/>
+</p>
 
 
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
 
-**★ Digital Transformation Leader | AI & Data Science Expert | E-Commerce & Super App Architect | Driving Revenue Growth, Automation & Scalable Digital Solutions**
+**★ Digital Transformation Leader**
+**AI & Data Science Expert**
+**E-Commerce & Super App Architect**
+**Driving Revenue Growth, Automation & Scalable Digital Solutions**
 
 **LinkedIn:** [linkedin](https://www.linkedin.com/in/hassanjameel/)  
 **Kaggle:** [Kaggle](https://www.kaggle.com/hassanjameelahmed/)
