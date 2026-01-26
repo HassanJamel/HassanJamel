@@ -6,7 +6,8 @@
 
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
 
-**★ Digital Transformation Leader | AI & Data Science Expert | Driving Revenue Growth, Automation & Scalable Digital Solutions**
+**★ Digital Transformation Leader | AI & Data Science Expert | Kaggle Expert (Datasets & Notebooks) | E-Commerce & Super App Architect | Driving Scalable Digital Growth & Automation**
+
 ---
 
 ## hey there 👋
