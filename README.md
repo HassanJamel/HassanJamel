@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="001.jpg" alt=" Hassan Jameel " width="100"/>
+  <a href="https://hassanjamel.github.io/my_profile/" target="_blank">
+    <img src="001.jpg" alt="Hassan Jameel" width="500">
+  </a>
 </p>
 
 
