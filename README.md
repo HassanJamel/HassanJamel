@@ -4,6 +4,13 @@
     <img src="001.png" alt="Hassan Jameel" alt="Hassan" width="500">
   </a>
 </p>
+<br>
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/aramco-historical-market-analysis-2019-2025" target="_blank">
+    <img src="Aramco-Stock-2019-2025.png" alt="Aramco" width="500">
+  </a>
+</p>
+
 
 
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
