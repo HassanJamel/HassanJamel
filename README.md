@@ -8,7 +8,7 @@
 
 ### Hi , I'm ‏Eng.Hassan Jameel Ahmed
 
-**★ Digital Transformation Leader | AI & Data Science Expert | Kaggle Expert (Datasets & Notebooks) | E-Commerce & Super App Architect | Driving Scalable Digital Growth & Automation**
+**★ AI & Data Science Leader | Kaggle Master (Top 1% Worldwide – Rank #27/8,800) | Machine Learning & Data Analytics | Building Scalable AI & Data Platforms | Digital Transformation | E-Commerce & Super App Architect**
 
 ---
 
